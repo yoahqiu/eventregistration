@@ -1,2 +1,1 @@
-rootProject.name = 'eventregistration'
-include 'EventRegistration-Backend'
+rootProject.name = 'EventRegistration-Backend'
